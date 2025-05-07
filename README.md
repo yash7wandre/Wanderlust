@@ -1,2 +1,2 @@
 # Wanderlust
-https://wanderlust-a7ky.onrender.com
+https://wanderlust-a7ky.onrender.com/listings
